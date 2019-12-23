@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="242cf93a-4b95-4163-a81f-c731f2598f15" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/cduestc/minyao/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/cduestc/minyao/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/minyao.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,11 +33,17 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\idea\minyao\src\main\resources\static\css" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\idea\minyao\src\main\resources\static" />
+      <recent name="D:\idea\minyao\src\main\resources\static\images" />
+      <recent name="D:\idea\minyao\src\main\resources\static\css" />
       <recent name="D:\idea\minyao\src\main\resources\templates" />
     </key>
   </component>
@@ -82,7 +91,8 @@
       <updated>1575707578951</updated>
       <workItem from="1575707583882" duration="8917000" />
       <workItem from="1575785226913" duration="746000" />
-      <workItem from="1575855386757" duration="747000" />
+      <workItem from="1575855386757" duration="2803000" />
+      <workItem from="1577083645805" duration="5400000" />
     </task>
     <servers />
   </component>

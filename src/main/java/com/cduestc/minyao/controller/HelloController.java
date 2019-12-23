@@ -2,13 +2,22 @@ package com.cduestc.minyao.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
 
 @Controller
 public class HelloController {
-    @RequestMapping("/minyao")
-    public String Hello()
+    @RequestMapping("/main")
+    public String Hello1()
     {
-        return "/minyao";
+        return "/main";
+    }
+    @RequestMapping("/gezhe")
+    public String Hello2()
+    {
+        return "/gezhe";
+    }
+    @RequestMapping("/story")
+    public String Hello3()
+    {
+        return "/story";
     }
 }
